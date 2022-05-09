@@ -11,6 +11,10 @@ Implementation of Supervised Contrastive Learning for pretrained language models
  ![Alt text](./viz/with_scl.png?raw=true "Title")
 - Learned sentence embeddings without using supervised contrastive loss.
  ![Alt text](./viz/without_scl.png?raw=true "Title")
+ 
+## References
+- https://arxiv.org/abs/2011.01403
+- https://github.com/sl-93/SUPERVISED-CONTRASTIVE-LEARNING-FOR-PRE-TRAINED-LANGUAGE-MODEL-FINE-TUNING
 
 
 
